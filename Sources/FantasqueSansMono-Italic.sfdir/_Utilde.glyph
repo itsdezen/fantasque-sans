@@ -1,13 +1,9 @@
 StartChar: Utilde
 Encoding: 360 360 292
 Width: 1060
-VWidth: 32
-Flags: W
-HStem: -10 151<294.595 604.685> 1293 9G<229.5 406 946 1111> 1399 153<794.861 1007.29> 1528 153<495.568 702.314>
-VStem: 70 162<205.789 657.284> 957 154<1148.03 1301.21>
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 323 771 S 1 0 0 1 21 -13 2
-Refer: 44 85 N 1 0 0 1 0 0 3
-Validated: 1
+Refer: 323 771 N 0.75 0 0 0.75 138.25 419.5 2
+Refer: 44 85 N 1 0 0 1 0 0 2
 EndChar

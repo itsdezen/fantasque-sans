@@ -1,0 +1,14 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 1041
+Width: 1060
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+405 0 m 0
+ 696 0 l 0
+ 696 -291 l 0
+ 405 -291 l 0
+ 405 0 l 0
+EndSplineSet
+EndChar
